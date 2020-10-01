@@ -1,4 +1,6 @@
 # CricLive Score
+Get live cricket scores on your terminal with a simple command.
+
 
 ## Setup instructions
 
